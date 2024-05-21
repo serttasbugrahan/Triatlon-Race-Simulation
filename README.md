@@ -1,2 +1,1 @@
-# triatlon
-triathlon competition using thread
+Triatlon Race Simulation using c++
